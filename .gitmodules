@@ -1,0 +1,3 @@
+[submodule "anime_scrapers"]
+	path = anime_scrapers
+	url = https://github.com/jQwotos/anime_scrapers
